@@ -1,0 +1,1 @@
+document.getElementById("title").innerText = "OOP in JavaScript, Cohorte 62";
