@@ -238,3 +238,6 @@ const numeroParImpar = (num) => {
 }
 console.log(numeroParImpar(27)); //Impar
 console.log(numeroParImpar(12)); //Par
+
+// Ejercicio de Mari con operador ternario
+// img.src = weather.temperature > 19 ? "calor.png" : "frio.png";
